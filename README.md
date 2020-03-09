@@ -18,7 +18,7 @@ A couple of simple scripts two control an RC car with a PS3 controller, a Raspbe
 - Clone repository
 ```sh
 git clone https://github.com/josh31416/mqtt-rc-car.git
-cd mqtt_rc_car
+cd mqtt-rc-car
 ```
 - Install a Mosquitto Broker in your RaspberryPi. You can find a tutorial [here](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/). Feel free to investigate on your own.
 - Pair PS3 controller using [Sixpair tool](https://github.com/rdepena/node-dualshock-controller/wiki/Pairing-The-Dual-shock-3-controller-in-Linux-(Ubuntu-Debian))
